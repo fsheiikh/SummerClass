@@ -15,8 +15,10 @@ public class Chapter1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        NutritionFacts nf = new NutritionFacts.Builder(30, 90).build();
+        
         // TODO code application logic here
-        System.out.println("Chapter 1");
+        System.out.println(nf.toString());
     }
     
 }
