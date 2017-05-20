@@ -68,7 +68,7 @@ public class Character
         
         if(health <= 0)
         {
-            alive = false;
+            alive = false; //sets alive property to false if health falls below 1
         }
             
     }
@@ -81,7 +81,7 @@ public class Character
     {   
         if(enemy.isAlive())
         {
-            enemy.takeDamage(attackPower);
+            enemy.takeDamage(attackPower); //enemy takes damage
             return true;
         }
         else
