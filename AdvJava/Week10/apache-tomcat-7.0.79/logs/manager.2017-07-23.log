@@ -1,0 +1,468 @@
+Jul 23, 2017 1:41:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:41:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:41:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:41:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context791965658517024645.xml'
+Jul 23, 2017 1:41:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1964438350329359222.xml'
+Jul 23, 2017 1:42:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2574236072090079597.xml'
+Jul 23, 2017 1:43:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:43:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:43:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:44:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:44:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:44:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:44:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4272472308869707899.xml'
+Jul 23, 2017 1:44:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:44:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:44:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:44:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:44:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context8142183225677261418.xml'
+Jul 23, 2017 1:44:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:45:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:45:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:45:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:45:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4069242316996318062.xml'
+Jul 23, 2017 1:45:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:49:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:49:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:49:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:49:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:49:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/ExampleWebApp'
+Jul 23, 2017 1:49:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2747342682947471933.xml'
+Jul 23, 2017 1:49:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:52:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:52:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:52:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:52:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5476513381442174039.xml'
+Jul 23, 2017 1:52:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 1:59:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:59:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:59:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:59:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:59:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 1:59:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 1:59:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5423935011380859112.xml'
+Jul 23, 2017 1:59:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1352047696989442120.xml'
+Jul 23, 2017 1:59:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:02:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:02:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:02:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:02:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6887838141781181036.xml'
+Jul 23, 2017 2:02:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:08:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:08:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:08:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:08:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2287233956443099349.xml'
+Jul 23, 2017 2:08:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:10:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:10:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:10:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:10:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context7408463057157602255.xml'
+Jul 23, 2017 2:10:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:12:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:12:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:12:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:12:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6949426526741560560.xml'
+Jul 23, 2017 2:12:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:15:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1886750315591054834.xml'
+Jul 23, 2017 2:15:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6353497329249616602.xml'
+Jul 23, 2017 2:15:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:17:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context8956633031448080430.xml'
+Jul 23, 2017 2:17:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5474859430679409237.xml'
+Jul 23, 2017 2:17:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:18:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:18:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:18:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:18:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context3922303030641316746.xml'
+Jul 23, 2017 2:18:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:20:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:20:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:20:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:20:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context245575620113088857.xml'
+Jul 23, 2017 2:20:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:21:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:21:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4217842623423460280.xml'
+Jul 23, 2017 2:21:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:21:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:21:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6516891590811778592.xml'
+Jul 23, 2017 2:21:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:21:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:21:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5640560284339669241.xml'
+Jul 23, 2017 2:21:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:22:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:22:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:22:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:22:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context8699938618729029957.xml'
+Jul 23, 2017 2:22:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:23:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:23:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:23:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:23:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5911034604244248827.xml'
+Jul 23, 2017 2:23:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:25:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2001767798804696759.xml'
+Jul 23, 2017 2:25:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:26:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:26:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:26:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:26:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6897632455033873462.xml'
+Jul 23, 2017 2:26:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:29:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:29:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:29:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:29:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context7899783418695652137.xml'
+Jul 23, 2017 2:29:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:33:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:33:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:33:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:33:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5566520658530254668.xml'
+Jul 23, 2017 2:33:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:34:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:34:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:34:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:34:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context7848418596057471722.xml'
+Jul 23, 2017 2:34:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:34:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:34:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:34:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:34:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4592378006071661725.xml'
+Jul 23, 2017 2:34:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:36:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:36:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:36:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:36:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4290381357053196956.xml'
+Jul 23, 2017 2:36:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:37:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:37:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:37:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:37:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context4779038641872460571.xml'
+Jul 23, 2017 2:37:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:38:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:38:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:38:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:38:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:38:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6421878357272988372.xml'
+Jul 23, 2017 2:38:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:40:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:40:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:40:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:40:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context7569953225677293914.xml'
+Jul 23, 2017 2:40:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:42:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context7172117548733460582.xml'
+Jul 23, 2017 2:42:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:43:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:43:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:43:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:43:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context3522986124459412248.xml'
+Jul 23, 2017 2:43:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:50:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:50:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:50:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:50:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2803626175447095725.xml'
+Jul 23, 2017 2:50:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:51:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:51:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:51:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:51:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2684896475121042492.xml'
+Jul 23, 2017 2:51:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:51:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:51:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:51:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:51:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context2941451038420000556.xml'
+Jul 23, 2017 2:51:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:52:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:52:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:52:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:52:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1902528813449403433.xml'
+Jul 23, 2017 2:52:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:57:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:57:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:57:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:57:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5405357090619456725.xml'
+Jul 23, 2017 2:57:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 2:59:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:59:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 2:59:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 2:59:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1907020136265034166.xml'
+Jul 23, 2017 2:59:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 3:01:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:01:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:01:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 3:01:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context5216425712992178785.xml'
+Jul 23, 2017 3:01:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 3:09:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:09:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:09:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 3:09:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context95741593801320401.xml'
+Jul 23, 2017 3:09:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 3:27:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:27:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 3:27:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 3:27:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context1094729546973240556.xml'
+Jul 23, 2017 3:27:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'
+Jul 23, 2017 4:56:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 4:56:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2017 4:56:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/ExampleWebApp'
+Jul 23, 2017 4:56:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/var/folders/x8/9ffnbkvs7wvcq3xhd8jq7f5r0000gp/T/context6734994349447526472.xml'
+Jul 23, 2017 4:56:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/ExampleWebApp'

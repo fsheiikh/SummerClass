@@ -1,0 +1,53 @@
+package com.origamisoftware.teach.advanced.services;
+
+import com.origamisoftware.teach.advanced.model.StockQuote;
+
+import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+import yahoofinance.histquotes.Interval;
+
+
+/**
+ * An implementation of the StockService that returns hard coded data.
+ */
+public class SimpleStockService implements StockService {
+
+    /**
+     * Return the current price for a share of stock  for the given symbol
+     *
+     * @param symbol the stock symbol of the company you want a quote for.
+     *               e.g. APPL for APPLE
+     * @return a  <CODE>BigDecimal</CODE> instance
+     * 
+     */
+    @Override
+    public StockQuote getQuote(String symbol){
+        // a dead simple implementation.
+        return new StockQuote(new BigDecimal(100), Calendar.getInstance().getTime(), symbol);
+    }
+
+    /**
+     * Get a historical list of stock quotes for the provide symbol
+     *
+     * @param symbol the stock symbol to search for
+     * @param from   the date of the first stock quote
+     * @param until  the date of the last stock quote
+     * @return a list of StockQuote instances
+     * 
+     */
+    @Override
+    public List<StockQuote> getQuote(String symbol, Calendar from, Calendar until, Interval interval){
+        // a dead simple implementation.
+        List<StockQuote> stockQuotes = new ArrayList<>();
+        Date aDay = from.getTime();
+        while (until.after(aDay)) {
+            stockQuotes.add(new StockQuote(new BigDecimal(100), aDay, symbol));
+            from.add(Calendar.DAY_OF_YEAR, 1);
+            aDay = from.getTime();
+        }
+        return stockQuotes;
+    }
+}

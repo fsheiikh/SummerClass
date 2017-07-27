@@ -1,0 +1,17 @@
+com/origamisoftware/teach/advanced/xml/Stocks$Stock.class
+com/origamisoftware/teach/advanced/util/Interval.class
+com/origamisoftware/teach/advanced/services/DatabaseStockService.class
+com/origamisoftware/teach/advanced/services/StockService.class
+com/origamisoftware/teach/advanced/util/DatabaseUtils.class
+com/origamisoftware/teach/advanced/util/DatabaseInitializationException.class
+com/origamisoftware/teach/advanced/util/DatabaseConnectionException.class
+com/origamisoftware/teach/advanced/util/ProgramConfiguration.class
+com/origamisoftware/teach/advanced/xml/DatabasesAccessObject.class
+com/origamisoftware/teach/advanced/xml/Stocks.class
+com/origamisoftware/teach/advanced/services/StockException.class
+com/origamisoftware/teach/advanced/util/DatabaseUtils$1.class
+com/origamisoftware/teach/advanced/xml/XMLDomainObject.class
+com/origamisoftware/teach/advanced/util/DatabaseException.class
+com/origamisoftware/teach/advanced/util/InvalidXMLException.class
+com/origamisoftware/teach/advanced/util/XMLUtils.class
+com/origamisoftware/teach/advanced/xml/ObjectFactory.class
